@@ -1,19 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Advanced Analytics for Organisational Impact
 
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA301:  Advanced Analytics for Organisational Impact
 
-# ## Demonstration video: Naive Bayes sentiment classifier using Python
-
-# This Jupyter Notebook and accompanying video demonstration by your course convenor, Dr James Abdey, show one possible way to use the Naive Bayes classifier. To follow along with the demonstration, you will use a movie review corpus and categorise the reviews as positive or negative. This corpus is one of many useful data sets included in the NLTK library. In this video, you’ll learn:
-# - how to download the movie review corpus
-# - how to prepare your data
 # - how to apply the Naive Bayes classifier
 # - how to interpret and communicate your findings.
 # 
-# > **Note:** Your output(s) may differ from the demonstration output(s) due to the `random.shuffle()` method applied to the data and possible updates to the `movie_reviews` corpus.
 
 # # 1. Prepare your workstation
 
